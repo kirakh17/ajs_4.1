@@ -1,5 +1,5 @@
 {
-  "name": "ajs_4.1_pure-functions",
+  "name": "ajs_4.1",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kira-khutornaya/ajs_4.1_pure-functions.git"
+    "url": "git+https://github.com/kirakh17/ajs_4.1.git"
   },
   "author": "Kira <k@mail.ru>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kira-khutornaya/ajs_4.1_pure-functions/issues"
+    "url": "https://github.com/kirakh17/ajs_4.1"
   },
-  "homepage": "https://github.com/kira-khutornaya/ajs_4.1_pure-functions#readme",
+  "homepage": "https://github.com/kirakh17/ajs_4.1#readme",
   "devDependencies": {
     "@babel/cli": "^7.13.0",
     "@babel/core": "^7.13.8",
